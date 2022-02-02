@@ -10,6 +10,9 @@
     position: relative;
 }
 
+body {
+    overflow: hidden;
+}
 .clearfix::after {
     content: "";
     display:table;
